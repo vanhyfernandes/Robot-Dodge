@@ -1,5 +1,8 @@
 # Robot Dodge
  Robot game written in C# and using SplashKit
+ 
+To run:
+```skm dotnet run```
 
 Rules:
 - The player has 5 lifes;
